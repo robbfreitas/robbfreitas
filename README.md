@@ -11,7 +11,7 @@
 >## Estatísticas
 
   <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/robbfreitas/github-readme-stats">
     <img
       align="center"
       height="165"
