@@ -12,8 +12,8 @@
 
  <div>
   <a href="https://github.com/robbfreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robbfreitas&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbfreitas&layout=compact&langs_count=7"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=robbfreitas&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbfreitas&layout=compact&langs_count=7"/>
 </div>
 
 >## Contato
