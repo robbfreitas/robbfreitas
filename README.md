@@ -10,21 +10,11 @@
   
 >## Estatísticas
 
-  <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbfreitas&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=robbfreitas&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
+ <div>
+  <a href="https://github.com/robbfreitas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robbfreitas&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbfreitas&layout=compact&langs_count=7"/>
+</div>
 
 >## Contato
 
