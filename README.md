@@ -5,7 +5,6 @@
 - ❤️ Apaixonado por Programação e a possibilidade de criar e melhorar coisas.
 - 🎓 Estudante de Análise e Desenv. de Sistemas, atualmente cursando o 3° período.
 - 📚 Interesses: JavaScript, Python, MongoDB, Node.js, React Native.
-- 🎯 Objetivo atual: Dominar a base e ferramentas para se tornar um Dev. Mobile.
 - 🚀 Documentando minha jornada de aprendizado.
   
 >## Estatísticas
