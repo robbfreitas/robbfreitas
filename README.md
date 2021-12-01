@@ -4,7 +4,7 @@
 
 - ❤️ Apaixonado por Programação e a possibilidade de criar e melhorar coisas.
 - 🎓 Estudante de Análise e Desenv. de Sistemas, atualmente cursando o 3° período.
-- 📚 Interesses: JavaScript, Python, MongoDB, Node.js, React Native.
+- 📚 Interesses: JavaScript, HTML5, CSS3, Python, MongoDB, Node.js, React Native.
 - 🚀 Documentando minha jornada de aprendizado.
   
 >## Estatísticas
