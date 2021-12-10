@@ -3,7 +3,7 @@
 >## Sobre mim
 
 - ❤️ Apaixonado por Programação e a possibilidade de criar e melhorar coisas.
-- 🎓 Estudante de Análise e Desenv. de Sistemas, atualmente cursando o 3° período.
+- 🎓 Estudante de Análise e Desenv. de Sistemas, atualmente cursando o 4° e último período.
 - 📚 Interesses: JavaScript, HTML5, CSS3, Python, MongoDB, Node.js, React Native.
 - 🚀 Documentando minha jornada de aprendizado.
   
