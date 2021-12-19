@@ -4,8 +4,8 @@
 
 - ❤️ Apaixonado por Programação, Design e a possibilidade de criar e melhorar coisas.
 - 🎓 Estudante de Análise e Desenv. de Sistemas, atualmente cursando o 4° e último período.
-- 📚 Interesses: JavaScript, HTML5, CSS3, Python, MongoDB, Node.js.
-- 🚀 Documentando minha jornada de aprendizado.
+- 📚 Foco atual de aprendizado e prática: JavaScript, HTML5, CSS3, React.
+- 🚀 Documentando minha jornada de aprendizado rumo a se tornar Dev Front-end.
   
 >## Estatísticas
 
@@ -15,6 +15,13 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbfreitas&layout=compact&langs_count=7"/>
 </div>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Roberto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Roberto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Roberto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Roberto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+  
 >## Contato
 
 <p align="center">
