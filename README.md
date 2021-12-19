@@ -3,7 +3,7 @@
 >## Sobre mim
 
 - ❤️ Apaixonado por Programação, Design e a possibilidade de criar e melhorar coisas.
-- 🎓 Estudante de Análise e Desenv. de Sistemas, atualmente cursando o 4° e último período.
+- 🎓 Estudante de Análise e Desenv. de Sistemas, atualmente cursando o último período.
 - 📚 Foco atual de aprendizado e prática: JavaScript, HTML5, CSS3, React.
 - 🚀 Documentando minha jornada de aprendizado rumo a se tornar Dev Front-end.
   
