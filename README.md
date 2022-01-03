@@ -7,11 +7,10 @@
 - 📚 Foco atual de aprendizado e prática: JavaScript, HTML5, CSS3, React.
 - 🚀 Documentando minha jornada de aprendizado rumo a me tornar Dev Front-end.
   
->## Estatísticas
+>## Linguagens e Ferramentas:
 
  <div>
   <a href="https://github.com/robbfreitas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=robbfreitas&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbfreitas&layout=compact&langs_count=7"/>
 </div>
 
@@ -20,23 +19,22 @@
   <img align="center" alt="Roberto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Roberto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Roberto-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Roberto-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  
 </div>
   
 >## Contato
 
 <p align="center">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/devrobertodefreitas/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:robertocompromissos@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/orobertodefreitas">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/devrobertodefreitas" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  <a target="_blank" href="mailto:robertocompromissos@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 
+  <a target="_blank" href="https://www.instagram.com/orobertodefreitas/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    
+</p>
+<br>
 </p>
