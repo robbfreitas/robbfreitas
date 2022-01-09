@@ -5,7 +5,7 @@
 - ❤️ Apaixonado por Programação, Design, Comunicação e a possibilidade de criar e melhorar coisas.
 - 🎓 Graduando em Análise e Desenv. de Sistemas, atualmente cursando o último período.
 - 📚 Foco atual de aprendizado e prática: JavaScript, HTML5, CSS3, React.
-- 🚀 Documentando minha jornada de aprendizado rumo a me tornar Dev Front-end.
+- 🚀 Documentando minha jornada de aprendizado.
   
 >## Linguagens e Ferramentas:
 
