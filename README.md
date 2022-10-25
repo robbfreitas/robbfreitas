@@ -1,4 +1,4 @@
-### Olá! Eu sou o Roberto Freitas. Seja bem-vindo(a) <br>
+### Olá! Eu sou o Roberto de Freitas. Seja bem-vindo(a)! <br>
 
 >## Sobre mim
 
