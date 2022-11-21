@@ -20,7 +20,7 @@
 
 - ❤️ Apaixonado por Programação e a possibilidade de criar e melhorar projetos.
 - 🎓 Graduando em Análise e Desenv. de Sistemas, atualmente cursando o último período.
-- 📚 Foco atual de aprendizado e prática: **JavaScript**, **HTML5**, **CSS3**, **React** e **C#/.NET**.
+- 📚 Meu foco atual de prática e aprendizado: **JavaScript**, **HTML5**, **CSS3** e **C#/.NET**.
 - 🚀 Documentando minha jornada de aprendizado e prática.
   
 ># Estatísticas
@@ -41,7 +41,6 @@
   <img align="center" alt="Roberto-CSS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Roberto-CSharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Roberto-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Roberto-React" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   
 </div><br>
 
