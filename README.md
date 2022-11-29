@@ -20,8 +20,8 @@
 
 - ❤️ Apaixonado por Programação e a possibilidade de criar e melhorar projetos.
 - 🎓 Graduando em Análise e Desenv. de Sistemas, atualmente cursando o último período.
-- 📚 Meu foco atual de prática, aprendizado e interesse: **C#/.NET**, **Banco de dados**, **Backend**.
-- 🧙 Conhecimento em: **JavaScript**, **HTML5**, **CSS3** 
+- 📚 Estudando **C#**,**.NET** e **Banco de dados** 
+- 🎯 Objetivo: Trabalhar com **Backend**.
 - 🚀 Documentando minha jornada de aprendizado e prática.
   
 ># Estatísticas
