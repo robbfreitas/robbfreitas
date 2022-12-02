@@ -10,7 +10,7 @@
 <p>
   
 ```C#
-   Console.WriteLine("Seja muito bem-vindo(a) :)");
+   Console.WriteLine("Seja muito bem-vindo(a)");
 ```
 </p>
   
