@@ -10,17 +10,16 @@
 <p>
   
 ```C#
-   Console.WriteLine("E seja muito bem-vindo(a) :)");
+   Console.WriteLine("Seja muito bem-vindo(a) :)");
 ```
 </p>
   
 </details>
 
 ># Sobre mim
-
-- ❤️ Apaixonado por Programação e a possibilidade de criar e melhorar projetos.
+>
 - 🎓 Graduando em Análise e Desenv. de Sistemas, atualmente cursando o último período.
-- 📚 Estudando **C#**,**.NET** e **Banco de dados** 
+- 📚 Estudando e interessado em **C#**, **.NET** e **Banco de dados** 
 - 🎯 Objetivo: Trabalhar com **Backend**.
 - 🚀 Documentando minha jornada de aprendizado e prática.
   
@@ -28,12 +27,12 @@
 
  <div>
   
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=robbfreitas&show_icons&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbfreitas&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robbfreitas&layout=compact&show_icons=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbfreitas&layout=compact&langs_count=7&theme=dark"/>
   
 </div><br>
   
-># Linguagens e Frameworks de meu interesse
+># Linguagens de meu conhecimento
   
 <div style="display: inline_block"><br>
   
@@ -45,14 +44,15 @@
   
 </div><br>
 
-># Ferramentas de meu interesse
+># Ferramentas de meu interesse e conhecimento
 
 <div style="display: inline_block" >
   
  <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
  <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+ <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
   
 </div><br>
 
