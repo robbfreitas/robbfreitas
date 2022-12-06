@@ -44,7 +44,7 @@
   
 </div><br>
 
-># Ferramentas de meu interesse e conhecimento
+># Ferramentas
 
 <div style="display: inline_block" >
   
