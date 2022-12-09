@@ -71,7 +71,10 @@
   
   <a target="_blank" href="mailto:robertocompromissos@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-
+    
+  <a target="_blank" href="https://linkedin.com/in/devroberto" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Linkedin-00acee?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    
   <a target="_blank" href="https://www.instagram.com/orobertodefreitas/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
