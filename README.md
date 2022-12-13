@@ -21,15 +21,14 @@
 - 🎓 Graduando em Análise e Desenv. de Sistemas, atualmente cursando o último período.
 - 📚 Estudando e interessado em **C#**, **.NET** e **Banco de dados** 
 - 🎯 Objetivo: Trabalhar com **Backend**.
-- 🚀 Documentando minha jornada de aprendizado e prática.
   
 ># Estatísticas
 
  <div>
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robbfreitas&layout=compact&show_icons=true&theme=dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbfreitas&layout=compact&langs_count=7&theme=dark"/>
-  
+ 
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=robbfreitas&show_icons=true&theme=dark">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=robbfreitas&hide=css,html&theme=dark">
+ 
 </div><br>
   
 ># Linguagens de meu conhecimento
