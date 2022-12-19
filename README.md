@@ -31,7 +31,7 @@
  
 </div><br>
   
-># Linguagens de meu conhecimento
+># Linguagens
   
 <div style="display: inline_block"><br>
   
@@ -47,21 +47,22 @@
 
 <div style="display: inline_block" >
   
- <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
- <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+ ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+ ![VisualStudio](https://img.shields.io/badge/-VisualStudioIDE-8A2BE2?style=flat-square&logo=visual-studio&logoColor=white)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+ ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+ ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+ ![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
   
 </div><br>
 
-># Sistemas Operacionais que tenho experiência
+># Sistemas Operacionais
 
 <div style="display: inline_block">
-  
-  <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 
+  ![Ubuntu]( https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+  
 </div>
   
 <div align="center">
