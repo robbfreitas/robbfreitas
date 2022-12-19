@@ -16,13 +16,13 @@
   
 </details>
 
-># Sobre mim
+>## Sobre mim
 >
 - 🎓 Graduando em Análise e Desenv. de Sistemas, atualmente cursando o último período.
 - 📚 Estudando e interessado em **C#**, **.NET** e **Banco de dados** 
 - 🎯 Objetivo: Trabalhar com **Backend**.
   
-># Estatísticas
+>## Estatísticas
 
  <div>
  
@@ -31,8 +31,8 @@
  
 </div><br>
   
-># Linguagens
-  
+>## Linguagens
+Linguagens de meu conhecimento
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Roberto-Js" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
@@ -43,8 +43,8 @@
   
 </div><br>
 
-># Ferramentas
-
+>## Ferramentas
+Ferramentas de meu conhecimento
 <div style="display: inline_block" >
   
  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -56,8 +56,8 @@
   
 </div><br>
 
-># Sistemas Operacionais
-
+>## Sistemas Operacionais
+Sistemas Operacionais de meu conhecimento
 <div style="display: inline_block">
 
   ![Ubuntu]( https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
